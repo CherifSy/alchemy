@@ -34,7 +34,7 @@
   },
   "dependencies": {
     "child_process": "^1.0.2",
-    "electron": "^1.6.2",
+    "electron": "^42.11.16",
     "execa": "^0.6.3",
     "menubar": "^5.2.0",
     "react": "^15.4.2",
